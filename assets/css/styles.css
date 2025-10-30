@@ -334,7 +334,6 @@ img {
 @media screen and (min-width: 1023px) {
   .nav {
     height: calc(var(--header-height) + 2rem);
-    margin: auto;
   }
 
   .nav__close,
@@ -362,7 +361,6 @@ img {
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
     column-gap: 4rem;
-    margin: auto;
   }
 
   .home__data {
